@@ -1,0 +1,1 @@
+our idea is to implement a dictionary where i have a certain name in the dictionary and if the user input any word i have to tell the meaning of that word from our dictionary if it exist
