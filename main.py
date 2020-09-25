@@ -7,7 +7,7 @@
 # file1.write(str1)
 
 # lets start our project
-#
+# this is just for taking the key value pair in our dictionary from user
 # class My_dictionary(dict):
 #     def __init__(self):
 #         self = dict()
